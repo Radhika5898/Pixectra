@@ -1,3 +1,3 @@
-http://www.pixectra.com/
-the perfect app for you
+# http://www.pixectra.com/
+The perfect app for you
 and your memories.
